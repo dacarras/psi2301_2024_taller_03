@@ -239,7 +239,7 @@ y 5 afirmaciones en negativo.
     `rowSums(cbind(), na.rm = TRUE)`, u otra equivalente.
   - Guarde los resultados en una variable llamada `auto`.
   - Revise los resultados generados. Genere un plot que compare los
-    puntajes de `auto`, y los de `sef`. Debiera encontrar una línea
+    puntajes de `auto`, y los de `self`. Debiera encontrar una línea
     recta. Los puntajes deben ser iguales.
 
 ``` r

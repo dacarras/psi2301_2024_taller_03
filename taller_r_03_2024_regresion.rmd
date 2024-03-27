@@ -154,7 +154,7 @@ au10      sí        Algunas veces pienso que no soy bueno en absoluto
   + Luego de recodificar los items respectivos, sume las respuestas de los items positivos, y los valores de las recodificaciones de los items negativos.
   + La suma, es por fila. Para estos fines emplee la función `rowSums(cbind(), na.rm = TRUE)`, u otra equivalente.
   + Guarde los resultados en una variable llamada `auto`.
-  + Revise los resultados generados. Genere un plot que compare los puntajes de `auto`, y los de `sef`. Debiera encontrar una línea recta. Los puntajes deben ser iguales.
+  + Revise los resultados generados. Genere un plot que compare los puntajes de `auto`, y los de `self`. Debiera encontrar una línea recta. Los puntajes deben ser iguales.
 
 
 
